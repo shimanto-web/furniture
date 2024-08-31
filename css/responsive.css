@@ -127,6 +127,9 @@
     .work-card-text {
         margin-top: 63px;
     }
+    .work-card-text h2 {
+        width: 283px;
+    }
     .work-card-text p {
         width: 299px;
         font-size: 15px;
